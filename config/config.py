@@ -23,3 +23,4 @@ class config():
         self.save_model = "checkpoint/bilstm_crf.pth"
         self.val_resl = "val_result/val_resl.json"
         self.test_resl = "test_result/test_resl.json"
+        self.log = "./log/log.log"
