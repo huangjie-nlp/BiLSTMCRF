@@ -77,7 +77,7 @@ def collate_fn(batch):
         batch_mask[i,:token_len[i]].copy_(torch.from_numpy(mask[i]))
         batch_tag_ids[i,:token_len[i]].copy_(torch.from_numpy(tag_ids[i]))
 
-    return {"token_ids":batch_token_ids,
+    return {"input_ids":batch_token_ids,
             "mask":batch_mask,
             "tag_ids":batch_tag_ids,
             "token":text,

@@ -1,0 +1,339 @@
+2022-03-30 20:33:34 PM - INFO - epoch:1 global_step:100 global_loss:58947.9642
+2022-03-30 20:33:44 PM - INFO - epoch:1 global_step:200 global_loss:17996.7102
+2022-03-30 20:33:50 PM - INFO - epoch:1 recall:0.7368 precision:0.8465 f1_score:0.7879 best_f1:0.7879 best_epoch:1
+2022-03-30 20:33:56 PM - INFO - epoch:2 global_step:300 global_loss:10309.1022
+2022-03-30 20:34:06 PM - INFO - epoch:2 global_step:400 global_loss:9130.5021
+2022-03-30 20:34:15 PM - INFO - epoch:2 recall:0.8490 precision:0.8882 f1_score:0.8682 best_f1:0.8682 best_epoch:2
+2022-03-30 20:34:17 PM - INFO - epoch:3 global_step:500 global_loss:6684.3003
+2022-03-30 20:34:27 PM - INFO - epoch:3 global_step:600 global_loss:5490.2854
+2022-03-30 20:34:37 PM - INFO - epoch:3 global_step:700 global_loss:5456.1116
+2022-03-30 20:34:41 PM - INFO - epoch:3 recall:0.8657 precision:0.9038 f1_score:0.8843 best_f1:0.8843 best_epoch:3
+2022-03-30 20:34:49 PM - INFO - epoch:4 global_step:800 global_loss:3672.4753
+2022-03-30 20:34:58 PM - INFO - epoch:4 global_step:900 global_loss:3552.2163
+2022-03-30 20:35:06 PM - INFO - epoch:4 recall:0.8918 precision:0.9150 f1_score:0.9032 best_f1:0.9032 best_epoch:4
+2022-03-30 20:35:11 PM - INFO - epoch:5 global_step:1000 global_loss:3052.6475
+2022-03-30 20:35:20 PM - INFO - epoch:5 global_step:1100 global_loss:2425.2772
+2022-03-30 20:35:31 PM - INFO - epoch:5 recall:0.8918 precision:0.9150 f1_score:0.9009 best_f1:0.9032 best_epoch:4
+2022-03-30 20:35:32 PM - INFO - epoch:6 global_step:1200 global_loss:2225.8864
+2022-03-30 20:35:42 PM - INFO - epoch:6 global_step:1300 global_loss:1566.0604
+2022-03-30 20:35:51 PM - INFO - epoch:6 global_step:1400 global_loss:1708.5863
+2022-03-30 20:35:57 PM - INFO - epoch:6 recall:0.8918 precision:0.9175 f1_score:0.9045 best_f1:0.9045 best_epoch:6
+2022-03-30 20:36:03 PM - INFO - epoch:7 global_step:1500 global_loss:1268.8144
+2022-03-30 20:36:13 PM - INFO - epoch:7 global_step:1600 global_loss:1023.3101
+2022-03-30 20:36:22 PM - INFO - epoch:7 recall:0.9025 precision:0.9209 f1_score:0.9116 best_f1:0.9116 best_epoch:7
+2022-03-30 20:36:25 PM - INFO - epoch:8 global_step:1700 global_loss:1119.8093
+2022-03-30 20:36:35 PM - INFO - epoch:8 global_step:1800 global_loss:730.6325
+2022-03-30 20:36:45 PM - INFO - epoch:8 global_step:1900 global_loss:715.1140
+2022-03-30 20:36:48 PM - INFO - epoch:8 recall:0.9025 precision:0.9209 f1_score:0.9020 best_f1:0.9116 best_epoch:7
+2022-03-30 20:36:57 PM - INFO - epoch:9 global_step:2000 global_loss:521.4632
+2022-03-30 20:37:06 PM - INFO - epoch:9 global_step:2100 global_loss:547.4269
+2022-03-30 20:37:14 PM - INFO - epoch:9 recall:0.9025 precision:0.9209 f1_score:0.9017 best_f1:0.9116 best_epoch:7
+2022-03-30 20:37:19 PM - INFO - epoch:10 global_step:2200 global_loss:532.3516
+2022-03-30 20:37:28 PM - INFO - epoch:10 global_step:2300 global_loss:420.2100
+2022-03-30 20:37:40 PM - INFO - epoch:10 recall:0.9025 precision:0.9209 f1_score:0.9080 best_f1:0.9116 best_epoch:7
+2022-03-30 20:37:40 PM - INFO - epoch:11 global_step:2400 global_loss:436.5812
+2022-03-30 20:37:50 PM - INFO - epoch:11 global_step:2500 global_loss:354.5356
+2022-03-30 20:38:00 PM - INFO - epoch:11 global_step:2600 global_loss:277.5580
+2022-03-30 20:38:05 PM - INFO - epoch:11 recall:0.9025 precision:0.9209 f1_score:0.9071 best_f1:0.9116 best_epoch:7
+2022-03-30 20:38:26 PM - INFO - epoch:12 global_step:2700 global_loss:215.4015
+2022-03-30 20:38:50 PM - INFO - epoch:12 global_step:2800 global_loss:159.8596
+2022-03-30 20:38:59 PM - INFO - epoch:12 recall:0.9025 precision:0.9209 f1_score:0.9052 best_f1:0.9116 best_epoch:7
+2022-03-30 20:39:02 PM - INFO - epoch:13 global_step:2900 global_loss:180.0169
+2022-03-30 20:39:33 PM - INFO - epoch:13 global_step:3000 global_loss:200.7202
+2022-03-30 20:40:29 PM - INFO - epoch:13 global_step:3100 global_loss:472.4186
+2022-03-30 20:40:38 PM - INFO - epoch:13 recall:0.9025 precision:0.9209 f1_score:0.8933 best_f1:0.9116 best_epoch:7
+2022-03-30 20:41:33 PM - INFO - epoch:14 global_step:3200 global_loss:953.2888
+2022-03-30 20:42:11 PM - INFO - epoch:14 global_step:3300 global_loss:557.7138
+2022-03-30 20:42:23 PM - INFO - epoch:14 recall:0.9025 precision:0.9209 f1_score:0.9059 best_f1:0.9116 best_epoch:7
+2022-03-30 20:42:34 PM - INFO - epoch:15 global_step:3400 global_loss:562.8939
+2022-03-30 20:42:54 PM - INFO - epoch:15 global_step:3500 global_loss:448.9614
+2022-03-30 20:43:42 PM - INFO - epoch:15 recall:0.9045 precision:0.9236 f1_score:0.9139 best_f1:0.9139 best_epoch:15
+2022-03-30 20:43:51 PM - INFO - epoch:16 global_step:3600 global_loss:265.8500
+2022-03-30 20:44:52 PM - INFO - epoch:16 global_step:3700 global_loss:169.1959
+2022-03-30 20:45:50 PM - INFO - epoch:16 global_step:3800 global_loss:131.4067
+2022-03-30 20:45:58 PM - INFO - epoch:16 recall:0.9045 precision:0.9236 f1_score:0.9071 best_f1:0.9139 best_epoch:15
+2022-03-30 20:46:13 PM - INFO - epoch:17 global_step:3900 global_loss:101.7848
+2022-03-30 20:46:32 PM - INFO - epoch:17 global_step:4000 global_loss:86.2566
+2022-03-30 20:46:47 PM - INFO - epoch:17 recall:0.9045 precision:0.9236 f1_score:0.9078 best_f1:0.9139 best_epoch:15
+2022-03-30 20:47:05 PM - INFO - epoch:18 global_step:4100 global_loss:67.6256
+2022-03-30 20:48:03 PM - INFO - epoch:18 global_step:4200 global_loss:59.8807
+2022-03-30 20:49:04 PM - INFO - epoch:18 global_step:4300 global_loss:63.7867
+2022-03-30 20:49:09 PM - INFO - epoch:18 recall:0.9045 precision:0.9236 f1_score:0.9085 best_f1:0.9139 best_epoch:15
+2022-03-30 20:49:51 PM - INFO - epoch:19 global_step:4400 global_loss:57.0824
+2022-03-30 20:50:10 PM - INFO - epoch:19 global_step:4500 global_loss:56.0530
+2022-03-30 20:50:20 PM - INFO - epoch:19 recall:0.9045 precision:0.9236 f1_score:0.9065 best_f1:0.9139 best_epoch:15
+2022-03-30 20:50:32 PM - INFO - epoch:20 global_step:4600 global_loss:47.3679
+2022-03-30 20:51:14 PM - INFO - epoch:20 global_step:4700 global_loss:40.3614
+2022-03-30 20:52:04 PM - INFO - epoch:20 recall:0.9045 precision:0.9236 f1_score:0.9085 best_f1:0.9139 best_epoch:15
+2022-03-30 20:52:17 PM - INFO - epoch:21 global_step:4800 global_loss:40.1251
+2022-03-30 20:53:15 PM - INFO - epoch:21 global_step:4900 global_loss:35.3752
+2022-03-30 20:53:47 PM - INFO - epoch:21 global_step:5000 global_loss:34.8999
+2022-03-30 20:53:53 PM - INFO - epoch:21 recall:0.9045 precision:0.9236 f1_score:0.9085 best_f1:0.9139 best_epoch:15
+2022-03-30 20:54:09 PM - INFO - epoch:22 global_step:5100 global_loss:29.4196
+2022-03-30 20:54:28 PM - INFO - epoch:22 global_step:5200 global_loss:30.5499
+2022-03-30 20:55:01 PM - INFO - epoch:22 recall:0.9045 precision:0.9236 f1_score:0.9113 best_f1:0.9139 best_epoch:15
+2022-03-30 20:55:24 PM - INFO - epoch:23 global_step:5300 global_loss:27.7674
+2022-03-30 20:56:22 PM - INFO - epoch:23 global_step:5400 global_loss:28.8975
+2022-03-30 20:57:25 PM - INFO - epoch:23 recall:0.9045 precision:0.9236 f1_score:0.9086 best_f1:0.9139 best_epoch:15
+2022-03-30 20:57:26 PM - INFO - epoch:24 global_step:5500 global_loss:25.0353
+2022-03-30 20:57:45 PM - INFO - epoch:24 global_step:5600 global_loss:22.7336
+2022-03-30 20:58:05 PM - INFO - epoch:24 global_step:5700 global_loss:24.5971
+2022-03-30 20:58:14 PM - INFO - epoch:24 recall:0.9045 precision:0.9236 f1_score:0.9102 best_f1:0.9139 best_epoch:15
+2022-03-30 20:58:38 PM - INFO - epoch:25 global_step:5800 global_loss:20.7664
+2022-03-30 20:59:36 PM - INFO - epoch:25 global_step:5900 global_loss:22.6508
+2022-03-30 21:00:23 PM - INFO - epoch:25 recall:0.9045 precision:0.9236 f1_score:0.9115 best_f1:0.9139 best_epoch:15
+2022-03-30 21:00:37 PM - INFO - epoch:26 global_step:6000 global_loss:19.9937
+2022-03-30 21:01:22 PM - INFO - epoch:26 global_step:6100 global_loss:19.5336
+2022-03-30 21:01:41 PM - INFO - epoch:26 global_step:6200 global_loss:19.6101
+2022-03-30 21:01:47 PM - INFO - epoch:26 recall:0.9045 precision:0.9236 f1_score:0.9115 best_f1:0.9139 best_epoch:15
+2022-03-30 21:02:03 PM - INFO - epoch:27 global_step:6300 global_loss:16.5440
+2022-03-30 21:02:43 PM - INFO - epoch:27 global_step:6400 global_loss:17.3431
+2022-03-30 21:03:19 PM - INFO - epoch:27 recall:0.9045 precision:0.9236 f1_score:0.9108 best_f1:0.9139 best_epoch:15
+2022-03-30 21:03:46 PM - INFO - epoch:28 global_step:6500 global_loss:17.1122
+2022-03-30 21:04:44 PM - INFO - epoch:28 global_step:6600 global_loss:15.5546
+2022-03-30 21:05:19 PM - INFO - epoch:28 recall:0.9045 precision:0.9236 f1_score:0.9115 best_f1:0.9139 best_epoch:15
+2022-03-30 21:05:20 PM - INFO - epoch:29 global_step:6700 global_loss:16.3302
+2022-03-30 21:05:40 PM - INFO - epoch:29 global_step:6800 global_loss:14.7793
+2022-03-30 21:05:59 PM - INFO - epoch:29 global_step:6900 global_loss:14.3150
+2022-03-30 21:06:13 PM - INFO - epoch:29 recall:0.9045 precision:0.9236 f1_score:0.9108 best_f1:0.9139 best_epoch:15
+2022-03-30 21:06:55 PM - INFO - epoch:30 global_step:7000 global_loss:13.3981
+2022-03-30 21:07:54 PM - INFO - epoch:30 global_step:7100 global_loss:13.2916
+2022-03-30 21:08:40 PM - INFO - epoch:30 recall:0.9045 precision:0.9236 f1_score:0.9095 best_f1:0.9139 best_epoch:15
+2022-03-30 21:08:55 PM - INFO - epoch:31 global_step:7200 global_loss:13.5787
+2022-03-30 21:09:15 PM - INFO - epoch:31 global_step:7300 global_loss:12.7494
+2022-03-30 21:09:30 PM - INFO - epoch:31 global_step:7400 global_loss:11.5789
+2022-03-30 21:09:33 PM - INFO - epoch:31 recall:0.9045 precision:0.9236 f1_score:0.9095 best_f1:0.9139 best_epoch:15
+2022-03-30 21:09:42 PM - INFO - epoch:32 global_step:7500 global_loss:11.1364
+2022-03-30 21:09:52 PM - INFO - epoch:32 global_step:7600 global_loss:12.0767
+2022-03-30 21:09:59 PM - INFO - epoch:32 recall:0.9045 precision:0.9236 f1_score:0.9105 best_f1:0.9139 best_epoch:15
+2022-03-30 21:10:04 PM - INFO - epoch:33 global_step:7700 global_loss:10.2027
+2022-03-30 21:10:14 PM - INFO - epoch:33 global_step:7800 global_loss:10.2202
+2022-03-30 21:10:24 PM - INFO - epoch:33 recall:0.9045 precision:0.9236 f1_score:0.9098 best_f1:0.9139 best_epoch:15
+2022-03-30 21:10:26 PM - INFO - epoch:34 global_step:7900 global_loss:10.7284
+2022-03-30 21:10:36 PM - INFO - epoch:34 global_step:8000 global_loss:10.1805
+2022-03-30 21:10:45 PM - INFO - epoch:34 global_step:8100 global_loss:9.0498
+2022-03-30 21:10:50 PM - INFO - epoch:34 recall:0.9045 precision:0.9236 f1_score:0.9095 best_f1:0.9139 best_epoch:15
+2022-03-30 21:10:58 PM - INFO - epoch:35 global_step:8200 global_loss:9.0167
+2022-03-30 21:11:08 PM - INFO - epoch:35 global_step:8300 global_loss:8.7849
+2022-03-30 21:11:16 PM - INFO - epoch:35 recall:0.9045 precision:0.9236 f1_score:0.9108 best_f1:0.9139 best_epoch:15
+2022-03-30 21:11:20 PM - INFO - epoch:36 global_step:8400 global_loss:8.6796
+2022-03-30 21:11:30 PM - INFO - epoch:36 global_step:8500 global_loss:8.1112
+2022-03-30 21:11:39 PM - INFO - epoch:36 global_step:8600 global_loss:8.1092
+2022-03-30 21:11:42 PM - INFO - epoch:36 recall:0.9045 precision:0.9236 f1_score:0.9111 best_f1:0.9139 best_epoch:15
+2022-03-30 21:11:52 PM - INFO - epoch:37 global_step:8700 global_loss:7.3225
+2022-03-30 21:12:01 PM - INFO - epoch:37 global_step:8800 global_loss:7.3511
+2022-03-30 21:12:08 PM - INFO - epoch:37 recall:0.9045 precision:0.9236 f1_score:0.9114 best_f1:0.9139 best_epoch:15
+2022-03-30 21:12:13 PM - INFO - epoch:38 global_step:8900 global_loss:7.2342
+2022-03-30 21:12:24 PM - INFO - epoch:38 global_step:9000 global_loss:6.8481
+2022-03-30 21:13:08 PM - INFO - epoch:38 recall:0.9045 precision:0.9236 f1_score:0.9068 best_f1:0.9139 best_epoch:15
+2022-03-30 21:13:17 PM - INFO - epoch:39 global_step:9100 global_loss:312.0747
+2022-03-30 21:14:15 PM - INFO - epoch:39 global_step:9200 global_loss:1960.5595
+2022-03-30 21:15:13 PM - INFO - epoch:39 global_step:9300 global_loss:1068.9884
+2022-03-30 21:15:23 PM - INFO - epoch:39 recall:0.9045 precision:0.9236 f1_score:0.8980 best_f1:0.9139 best_epoch:15
+2022-03-30 21:15:39 PM - INFO - epoch:40 global_step:9400 global_loss:470.8223
+2022-03-30 21:15:58 PM - INFO - epoch:40 global_step:9500 global_loss:176.4023
+2022-03-30 21:16:12 PM - INFO - epoch:40 recall:0.9045 precision:0.9236 f1_score:0.9039 best_f1:0.9139 best_epoch:15
+2022-03-30 21:16:24 PM - INFO - epoch:41 global_step:9600 global_loss:231.7333
+2022-03-30 21:17:28 PM - INFO - epoch:41 global_step:9700 global_loss:76.9185
+2022-03-30 21:18:26 PM - INFO - epoch:41 recall:0.9045 precision:0.9236 f1_score:0.9117 best_f1:0.9139 best_epoch:15
+2022-03-30 21:18:27 PM - INFO - epoch:42 global_step:9800 global_loss:85.3705
+2022-03-30 21:19:17 PM - INFO - epoch:42 global_step:9900 global_loss:33.5853
+2022-03-30 21:19:36 PM - INFO - epoch:42 global_step:10000 global_loss:36.0948
+2022-03-30 21:19:46 PM - INFO - epoch:42 recall:0.9152 precision:0.9294 f1_score:0.9222 best_f1:0.9222 best_epoch:42
+2022-03-30 21:19:58 PM - INFO - epoch:43 global_step:10100 global_loss:28.4800
+2022-03-30 21:20:29 PM - INFO - epoch:43 global_step:10200 global_loss:21.9324
+2022-03-30 21:21:18 PM - INFO - epoch:43 recall:0.9152 precision:0.9294 f1_score:0.9189 best_f1:0.9222 best_epoch:42
+2022-03-30 21:21:21 PM - INFO - epoch:44 global_step:10300 global_loss:22.6793
+2022-03-30 21:21:30 PM - INFO - epoch:44 global_step:10400 global_loss:18.7404
+2022-03-30 21:21:40 PM - INFO - epoch:44 global_step:10500 global_loss:17.0008
+2022-03-30 21:21:44 PM - INFO - epoch:44 recall:0.9152 precision:0.9294 f1_score:0.9205 best_f1:0.9222 best_epoch:42
+2022-03-30 21:21:52 PM - INFO - epoch:45 global_step:10600 global_loss:14.9687
+2022-03-30 21:22:02 PM - INFO - epoch:45 global_step:10700 global_loss:14.4414
+2022-03-30 21:22:10 PM - INFO - epoch:45 recall:0.9152 precision:0.9294 f1_score:0.9191 best_f1:0.9222 best_epoch:42
+2022-03-30 21:22:15 PM - INFO - epoch:46 global_step:10800 global_loss:13.1576
+2022-03-30 21:22:24 PM - INFO - epoch:46 global_step:10900 global_loss:12.6479
+2022-03-30 21:22:36 PM - INFO - epoch:46 recall:0.9152 precision:0.9294 f1_score:0.9201 best_f1:0.9222 best_epoch:42
+2022-03-30 21:22:36 PM - INFO - epoch:47 global_step:11000 global_loss:11.7079
+2022-03-30 21:23:29 PM - INFO - epoch:47 global_step:11100 global_loss:11.3877
+2022-03-30 21:24:30 PM - INFO - epoch:47 global_step:11200 global_loss:10.7236
+2022-03-30 21:24:53 PM - INFO - epoch:47 recall:0.9152 precision:0.9294 f1_score:0.9198 best_f1:0.9222 best_epoch:42
+2022-03-30 21:25:30 PM - INFO - epoch:48 global_step:11300 global_loss:10.0230
+2022-03-30 21:25:50 PM - INFO - epoch:48 global_step:11400 global_loss:9.4594
+2022-03-30 21:26:07 PM - INFO - epoch:48 recall:0.9152 precision:0.9294 f1_score:0.9187 best_f1:0.9222 best_epoch:42
+2022-03-30 21:26:12 PM - INFO - epoch:49 global_step:11500 global_loss:9.4024
+2022-03-30 21:26:37 PM - INFO - epoch:49 global_step:11600 global_loss:8.3579
+2022-03-30 21:27:36 PM - INFO - epoch:49 global_step:11700 global_loss:9.0475
+2022-03-30 21:27:48 PM - INFO - epoch:49 recall:0.9152 precision:0.9294 f1_score:0.9177 best_f1:0.9222 best_epoch:42
+2022-03-30 21:28:41 PM - INFO - epoch:50 global_step:11800 global_loss:8.0038
+2022-03-30 21:29:28 PM - INFO - epoch:50 global_step:11900 global_loss:7.7238
+2022-03-30 21:29:41 PM - INFO - epoch:50 recall:0.9152 precision:0.9294 f1_score:0.9167 best_f1:0.9222 best_epoch:42
+2022-03-30 21:29:51 PM - INFO - epoch:51 global_step:12000 global_loss:7.8314
+2022-03-30 21:30:10 PM - INFO - epoch:51 global_step:12100 global_loss:7.1911
+2022-03-30 21:30:35 PM - INFO - epoch:51 recall:0.9152 precision:0.9294 f1_score:0.9166 best_f1:0.9222 best_epoch:42
+2022-03-30 21:30:42 PM - INFO - epoch:52 global_step:12200 global_loss:7.1737
+2022-03-30 21:31:40 PM - INFO - epoch:52 global_step:12300 global_loss:6.4052
+2022-03-30 21:32:39 PM - INFO - epoch:52 global_step:12400 global_loss:6.6894
+2022-03-30 21:33:00 PM - INFO - epoch:52 recall:0.9152 precision:0.9294 f1_score:0.9150 best_f1:0.9222 best_epoch:42
+2022-03-30 21:33:26 PM - INFO - epoch:53 global_step:12500 global_loss:6.0660
+2022-03-30 21:33:45 PM - INFO - epoch:53 global_step:12600 global_loss:5.9444
+2022-03-30 21:34:01 PM - INFO - epoch:53 recall:0.9152 precision:0.9294 f1_score:0.9139 best_f1:0.9222 best_epoch:42
+2022-03-30 21:34:07 PM - INFO - epoch:54 global_step:12700 global_loss:6.1602
+2022-03-30 21:34:38 PM - INFO - epoch:54 global_step:12800 global_loss:5.5334
+2022-03-30 21:35:36 PM - INFO - epoch:54 global_step:12900 global_loss:5.4127
+2022-03-30 21:35:45 PM - INFO - epoch:54 recall:0.9152 precision:0.9294 f1_score:0.9132 best_f1:0.9222 best_epoch:42
+2022-03-30 21:36:41 PM - INFO - epoch:55 global_step:13000 global_loss:5.2035
+2022-03-30 21:37:20 PM - INFO - epoch:55 global_step:13100 global_loss:4.9082
+2022-03-30 21:37:31 PM - INFO - epoch:55 recall:0.9152 precision:0.9294 f1_score:0.9139 best_f1:0.9222 best_epoch:42
+2022-03-30 21:37:42 PM - INFO - epoch:56 global_step:13200 global_loss:5.2194
+2022-03-30 21:38:02 PM - INFO - epoch:56 global_step:13300 global_loss:4.6601
+2022-03-30 21:38:34 PM - INFO - epoch:56 recall:0.9152 precision:0.9294 f1_score:0.9139 best_f1:0.9222 best_epoch:42
+2022-03-30 21:38:36 PM - INFO - epoch:57 global_step:13400 global_loss:4.5696
+2022-03-30 21:38:46 PM - INFO - epoch:57 global_step:13500 global_loss:4.2654
+2022-03-30 21:38:56 PM - INFO - epoch:57 global_step:13600 global_loss:4.3099
+2022-03-30 21:39:01 PM - INFO - epoch:57 recall:0.9152 precision:0.9294 f1_score:0.9139 best_f1:0.9222 best_epoch:42
+2022-03-30 21:39:08 PM - INFO - epoch:58 global_step:13700 global_loss:3.9444
+2022-03-30 21:39:18 PM - INFO - epoch:58 global_step:13800 global_loss:3.8519
+2022-03-30 21:39:26 PM - INFO - epoch:58 recall:0.9152 precision:0.9294 f1_score:0.9139 best_f1:0.9222 best_epoch:42
+2022-03-30 21:39:30 PM - INFO - epoch:59 global_step:13900 global_loss:3.6636
+2022-03-30 21:39:52 PM - INFO - epoch:59 global_step:14000 global_loss:3.4173
+2022-03-30 21:40:51 PM - INFO - epoch:59 global_step:14100 global_loss:3.7281
+2022-03-30 21:40:57 PM - INFO - epoch:59 recall:0.9152 precision:0.9294 f1_score:0.9139 best_f1:0.9222 best_epoch:42
+2022-03-30 21:41:52 PM - INFO - epoch:60 global_step:14200 global_loss:3.1023
+2022-03-30 21:42:39 PM - INFO - epoch:60 global_step:14300 global_loss:3.0555
+2022-03-30 21:42:50 PM - INFO - epoch:60 recall:0.9152 precision:0.9294 f1_score:0.9143 best_f1:0.9222 best_epoch:42
+2022-03-30 21:43:01 PM - INFO - epoch:61 global_step:14400 global_loss:3.0607
+2022-03-30 21:43:21 PM - INFO - epoch:61 global_step:14500 global_loss:2.7887
+2022-03-30 21:43:39 PM - INFO - epoch:61 recall:0.9152 precision:0.9294 f1_score:0.9139 best_f1:0.9222 best_epoch:42
+2022-03-30 21:43:51 PM - INFO - epoch:62 global_step:14600 global_loss:2.6464
+2022-03-30 21:44:49 PM - INFO - epoch:62 global_step:14700 global_loss:2.5889
+2022-03-30 21:45:46 PM - INFO - epoch:62 global_step:14800 global_loss:2.5049
+2022-03-30 21:46:01 PM - INFO - epoch:62 recall:0.9152 precision:0.9294 f1_score:0.9153 best_f1:0.9222 best_epoch:42
+2022-03-30 21:46:35 PM - INFO - epoch:63 global_step:14900 global_loss:2.2932
+2022-03-30 21:46:54 PM - INFO - epoch:63 global_step:15000 global_loss:2.1790
+2022-03-30 21:47:07 PM - INFO - epoch:63 recall:0.9152 precision:0.9294 f1_score:0.9143 best_f1:0.9222 best_epoch:42
+2022-03-30 21:47:16 PM - INFO - epoch:64 global_step:15100 global_loss:2.0225
+2022-03-30 21:47:50 PM - INFO - epoch:64 global_step:15200 global_loss:1.9168
+2022-03-30 21:48:51 PM - INFO - epoch:64 recall:0.9152 precision:0.9294 f1_score:0.9139 best_f1:0.9222 best_epoch:42
+2022-03-30 21:48:53 PM - INFO - epoch:65 global_step:15300 global_loss:1.8924
+2022-03-30 21:49:50 PM - INFO - epoch:65 global_step:15400 global_loss:1.6880
+2022-03-30 21:50:30 PM - INFO - epoch:65 global_step:15500 global_loss:1.6947
+2022-03-30 21:50:40 PM - INFO - epoch:65 recall:0.9152 precision:0.9294 f1_score:0.9139 best_f1:0.9222 best_epoch:42
+2022-03-30 21:50:52 PM - INFO - epoch:66 global_step:15600 global_loss:1.4870
+2022-03-30 21:51:12 PM - INFO - epoch:66 global_step:15700 global_loss:1.5276
+2022-03-30 21:51:42 PM - INFO - epoch:66 recall:0.9152 precision:0.9294 f1_score:0.9150 best_f1:0.9222 best_epoch:42
+2022-03-30 21:51:58 PM - INFO - epoch:67 global_step:15800 global_loss:1.4398
+2022-03-30 21:52:55 PM - INFO - epoch:67 global_step:15900 global_loss:1.3333
+2022-03-30 21:53:53 PM - INFO - epoch:67 global_step:16000 global_loss:1.2799
+2022-03-30 21:54:07 PM - INFO - epoch:67 recall:0.9152 precision:0.9294 f1_score:0.9161 best_f1:0.9222 best_epoch:42
+2022-03-30 21:54:28 PM - INFO - epoch:68 global_step:16100 global_loss:1.2611
+2022-03-30 21:54:47 PM - INFO - epoch:68 global_step:16200 global_loss:1.1653
+2022-03-30 21:55:00 PM - INFO - epoch:68 recall:0.9152 precision:0.9294 f1_score:0.9140 best_f1:0.9222 best_epoch:42
+2022-03-30 21:55:10 PM - INFO - epoch:69 global_step:16300 global_loss:1.2114
+2022-03-30 21:55:54 PM - INFO - epoch:69 global_step:16400 global_loss:1.3272
+2022-03-30 21:56:50 PM - INFO - epoch:69 recall:0.9152 precision:0.9294 f1_score:0.9148 best_f1:0.9222 best_epoch:42
+2022-03-30 21:56:55 PM - INFO - epoch:70 global_step:16500 global_loss:1.3663
+2022-03-30 21:57:56 PM - INFO - epoch:70 global_step:16600 global_loss:753.4549
+2022-03-30 21:58:22 PM - INFO - epoch:70 global_step:16700 global_loss:841.6360
+2022-03-30 21:58:31 PM - INFO - epoch:70 recall:0.9152 precision:0.9294 f1_score:0.9014 best_f1:0.9222 best_epoch:42
+2022-03-30 21:58:45 PM - INFO - epoch:71 global_step:16800 global_loss:266.0525
+2022-03-30 21:59:04 PM - INFO - epoch:71 global_step:16900 global_loss:270.9110
+2022-03-30 21:59:42 PM - INFO - epoch:71 recall:0.9152 precision:0.9294 f1_score:0.9036 best_f1:0.9222 best_epoch:42
+2022-03-30 22:00:00 PM - INFO - epoch:72 global_step:17000 global_loss:225.6977
+2022-03-30 22:00:57 PM - INFO - epoch:72 global_step:17100 global_loss:68.3727
+2022-03-30 22:01:57 PM - INFO - epoch:72 global_step:17200 global_loss:50.0616
+2022-03-30 22:02:03 PM - INFO - epoch:72 recall:0.9152 precision:0.9294 f1_score:0.9124 best_f1:0.9222 best_epoch:42
+2022-03-30 22:02:21 PM - INFO - epoch:73 global_step:17300 global_loss:28.5747
+2022-03-30 22:02:41 PM - INFO - epoch:73 global_step:17400 global_loss:17.3313
+2022-03-30 22:02:52 PM - INFO - epoch:73 recall:0.9152 precision:0.9294 f1_score:0.9117 best_f1:0.9222 best_epoch:42
+2022-03-30 22:03:00 PM - INFO - epoch:74 global_step:17500 global_loss:12.6359
+2022-03-30 22:03:56 PM - INFO - epoch:74 global_step:17600 global_loss:23.1017
+2022-03-30 22:04:52 PM - INFO - epoch:74 recall:0.9152 precision:0.9294 f1_score:0.9117 best_f1:0.9222 best_epoch:42
+2022-03-30 22:05:00 PM - INFO - epoch:75 global_step:17700 global_loss:16.7359
+2022-03-30 22:05:56 PM - INFO - epoch:75 global_step:17800 global_loss:9.3037
+2022-03-30 22:06:15 PM - INFO - epoch:75 global_step:17900 global_loss:8.3226
+2022-03-30 22:06:23 PM - INFO - epoch:75 recall:0.9152 precision:0.9294 f1_score:0.9080 best_f1:0.9222 best_epoch:42
+2022-03-30 22:06:36 PM - INFO - epoch:76 global_step:18000 global_loss:16.2783
+2022-03-30 22:07:06 PM - INFO - epoch:76 global_step:18100 global_loss:8.4782
+2022-03-30 22:07:49 PM - INFO - epoch:76 recall:0.9152 precision:0.9294 f1_score:0.9097 best_f1:0.9222 best_epoch:42
+2022-03-30 22:08:09 PM - INFO - epoch:77 global_step:18200 global_loss:7.2061
+2022-03-30 22:09:08 PM - INFO - epoch:77 global_step:18300 global_loss:6.4991
+2022-03-30 22:09:53 PM - INFO - epoch:77 global_step:18400 global_loss:5.9668
+2022-03-30 22:09:56 PM - INFO - epoch:77 recall:0.9152 precision:0.9294 f1_score:0.9120 best_f1:0.9222 best_epoch:42
+2022-03-30 22:10:15 PM - INFO - epoch:78 global_step:18500 global_loss:5.8413
+2022-03-30 22:10:35 PM - INFO - epoch:78 global_step:18600 global_loss:5.3725
+2022-03-30 22:10:46 PM - INFO - epoch:78 recall:0.9152 precision:0.9294 f1_score:0.9134 best_f1:0.9222 best_epoch:42
+2022-03-30 22:11:19 PM - INFO - epoch:79 global_step:18700 global_loss:4.7816
+2022-03-30 22:12:18 PM - INFO - epoch:79 global_step:18800 global_loss:5.2380
+2022-03-30 22:13:11 PM - INFO - epoch:79 recall:0.9152 precision:0.9294 f1_score:0.9134 best_f1:0.9222 best_epoch:42
+2022-03-30 22:13:23 PM - INFO - epoch:80 global_step:18900 global_loss:4.6438
+2022-03-30 22:13:52 PM - INFO - epoch:80 global_step:19000 global_loss:4.2811
+2022-03-30 22:14:11 PM - INFO - epoch:80 global_step:19100 global_loss:4.0998
+2022-03-30 22:14:17 PM - INFO - epoch:80 recall:0.9152 precision:0.9294 f1_score:0.9140 best_f1:0.9222 best_epoch:42
+2022-03-30 22:14:33 PM - INFO - epoch:81 global_step:19200 global_loss:3.8089
+2022-03-30 22:15:26 PM - INFO - epoch:81 global_step:19300 global_loss:3.9798
+2022-03-30 22:16:07 PM - INFO - epoch:81 recall:0.9152 precision:0.9294 f1_score:0.9134 best_f1:0.9222 best_epoch:42
+2022-03-30 22:16:32 PM - INFO - epoch:82 global_step:19400 global_loss:3.6628
+2022-03-30 22:17:29 PM - INFO - epoch:82 global_step:19500 global_loss:3.4219
+2022-03-30 22:17:51 PM - INFO - epoch:82 recall:0.9152 precision:0.9294 f1_score:0.9117 best_f1:0.9222 best_epoch:42
+2022-03-30 22:17:52 PM - INFO - epoch:83 global_step:19600 global_loss:3.2351
+2022-03-30 22:18:11 PM - INFO - epoch:83 global_step:19700 global_loss:3.1647
+2022-03-30 22:18:29 PM - INFO - epoch:83 global_step:19800 global_loss:3.0432
+2022-03-30 22:18:35 PM - INFO - epoch:83 recall:0.9152 precision:0.9294 f1_score:0.9106 best_f1:0.9222 best_epoch:42
+2022-03-30 22:18:41 PM - INFO - epoch:84 global_step:19900 global_loss:2.8604
+2022-03-30 22:18:51 PM - INFO - epoch:84 global_step:20000 global_loss:2.7264
+2022-03-30 22:19:00 PM - INFO - epoch:84 recall:0.9152 precision:0.9294 f1_score:0.9116 best_f1:0.9222 best_epoch:42
+2022-03-30 22:19:03 PM - INFO - epoch:85 global_step:20100 global_loss:2.5726
+2022-03-30 22:19:12 PM - INFO - epoch:85 global_step:20200 global_loss:2.5171
+2022-03-30 22:19:22 PM - INFO - epoch:85 global_step:20300 global_loss:2.4530
+2022-03-30 22:19:26 PM - INFO - epoch:85 recall:0.9152 precision:0.9294 f1_score:0.9109 best_f1:0.9222 best_epoch:42
+2022-03-30 22:19:34 PM - INFO - epoch:86 global_step:20400 global_loss:2.2010
+2022-03-30 22:19:44 PM - INFO - epoch:86 global_step:20500 global_loss:2.1862
+2022-03-30 22:19:52 PM - INFO - epoch:86 recall:0.9152 precision:0.9294 f1_score:0.9112 best_f1:0.9222 best_epoch:42
+2022-03-30 22:19:56 PM - INFO - epoch:87 global_step:20600 global_loss:2.0621
+2022-03-30 22:20:06 PM - INFO - epoch:87 global_step:20700 global_loss:2.0004
+2022-03-30 22:20:17 PM - INFO - epoch:87 recall:0.9152 precision:0.9294 f1_score:0.9113 best_f1:0.9222 best_epoch:42
+2022-03-30 22:20:18 PM - INFO - epoch:88 global_step:20800 global_loss:2.0030
+2022-03-30 22:20:28 PM - INFO - epoch:88 global_step:20900 global_loss:1.7557
+2022-03-30 22:20:37 PM - INFO - epoch:88 global_step:21000 global_loss:1.7062
+2022-03-30 22:20:43 PM - INFO - epoch:88 recall:0.9152 precision:0.9294 f1_score:0.9095 best_f1:0.9222 best_epoch:42
+2022-03-30 22:20:50 PM - INFO - epoch:89 global_step:21100 global_loss:1.6809
+2022-03-30 22:21:00 PM - INFO - epoch:89 global_step:21200 global_loss:1.6045
+2022-03-30 22:21:09 PM - INFO - epoch:89 recall:0.9152 precision:0.9294 f1_score:0.9102 best_f1:0.9222 best_epoch:42
+2022-03-30 22:21:12 PM - INFO - epoch:90 global_step:21300 global_loss:1.4778
+2022-03-30 22:21:22 PM - INFO - epoch:90 global_step:21400 global_loss:1.4411
+2022-03-30 22:21:31 PM - INFO - epoch:90 global_step:21500 global_loss:1.4249
+2022-03-30 22:21:35 PM - INFO - epoch:90 recall:0.9152 precision:0.9294 f1_score:0.9096 best_f1:0.9222 best_epoch:42
+2022-03-30 22:21:43 PM - INFO - epoch:91 global_step:21600 global_loss:1.3000
+2022-03-30 22:21:53 PM - INFO - epoch:91 global_step:21700 global_loss:1.2869
+2022-03-30 22:22:00 PM - INFO - epoch:91 recall:0.9152 precision:0.9294 f1_score:0.9134 best_f1:0.9222 best_epoch:42
+2022-03-30 22:22:05 PM - INFO - epoch:92 global_step:21800 global_loss:1.2275
+2022-03-30 22:22:15 PM - INFO - epoch:92 global_step:21900 global_loss:1.2894
+2022-03-30 22:22:26 PM - INFO - epoch:92 recall:0.9152 precision:0.9294 f1_score:0.9071 best_f1:0.9222 best_epoch:42
+2022-03-30 22:22:27 PM - INFO - epoch:93 global_step:22000 global_loss:1.2620
+2022-03-30 22:22:36 PM - INFO - epoch:93 global_step:22100 global_loss:1.4278
+2022-03-30 22:22:46 PM - INFO - epoch:93 global_step:22200 global_loss:67.1206
+2022-03-30 22:22:51 PM - INFO - epoch:93 recall:0.9152 precision:0.9294 f1_score:0.8932 best_f1:0.9222 best_epoch:42
+2022-03-30 22:22:58 PM - INFO - epoch:94 global_step:22300 global_loss:348.1047
+2022-03-30 22:23:08 PM - INFO - epoch:94 global_step:22400 global_loss:322.8695
+2022-03-30 22:23:17 PM - INFO - epoch:94 recall:0.9152 precision:0.9294 f1_score:0.8964 best_f1:0.9222 best_epoch:42
+2022-03-30 22:23:20 PM - INFO - epoch:95 global_step:22500 global_loss:116.6905
+2022-03-30 22:23:30 PM - INFO - epoch:95 global_step:22600 global_loss:53.6821
+2022-03-30 22:23:40 PM - INFO - epoch:95 global_step:22700 global_loss:56.8765
+2022-03-30 22:23:43 PM - INFO - epoch:95 recall:0.9152 precision:0.9294 f1_score:0.9058 best_f1:0.9222 best_epoch:42
+2022-03-30 22:23:52 PM - INFO - epoch:96 global_step:22800 global_loss:12.9908
+2022-03-30 22:24:02 PM - INFO - epoch:96 global_step:22900 global_loss:10.4978
+2022-03-30 22:24:08 PM - INFO - epoch:96 recall:0.9152 precision:0.9294 f1_score:0.9083 best_f1:0.9222 best_epoch:42
+2022-03-30 22:24:14 PM - INFO - epoch:97 global_step:23000 global_loss:7.3513
+2022-03-30 22:24:24 PM - INFO - epoch:97 global_step:23100 global_loss:6.2414
+2022-03-30 22:24:34 PM - INFO - epoch:97 recall:0.9152 precision:0.9294 f1_score:0.9083 best_f1:0.9222 best_epoch:42
+2022-03-30 22:24:36 PM - INFO - epoch:98 global_step:23200 global_loss:6.0431
+2022-03-30 22:24:45 PM - INFO - epoch:98 global_step:23300 global_loss:5.1069
+2022-03-30 22:24:55 PM - INFO - epoch:98 global_step:23400 global_loss:4.8645
+2022-03-30 22:25:00 PM - INFO - epoch:98 recall:0.9152 precision:0.9294 f1_score:0.9086 best_f1:0.9222 best_epoch:42
+2022-03-30 22:25:07 PM - INFO - epoch:99 global_step:23500 global_loss:4.6633
+2022-03-30 22:25:17 PM - INFO - epoch:99 global_step:23600 global_loss:4.0675
+2022-03-30 22:25:25 PM - INFO - epoch:99 recall:0.9152 precision:0.9294 f1_score:0.9079 best_f1:0.9222 best_epoch:42
+2022-03-30 22:25:29 PM - INFO - epoch:100 global_step:23700 global_loss:3.9302
+2022-03-30 22:25:39 PM - INFO - epoch:100 global_step:23800 global_loss:3.3365
+2022-03-30 22:25:48 PM - INFO - epoch:100 global_step:23900 global_loss:4.0781
+2022-03-30 22:25:51 PM - INFO - epoch:100 recall:0.9152 precision:0.9294 f1_score:0.9073 best_f1:0.9222 best_epoch:42

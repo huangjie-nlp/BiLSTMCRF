@@ -10,6 +10,9 @@
 -------------------------------------------------
 """
 import json
+import torch
+from models.BiLSTM_CRF import BiLSTM_CRF
+
 
 def parse(pred_ids,token):
     start = -0.1
@@ -30,31 +33,34 @@ def parse(pred_ids,token):
             resl.append(str(k)+"/"+str(k)+"/"+i.split("-")[1]+"@"+"".join(token[k]))
     return resl
 
-def evaluate(model,dataload,device,fn):
-    model.eval()
-    gold_num,correct_num,predict_num = 0,0,0
-    id2rel = json.load(open("dataset/schemas.json","r",encoding="utf-8"))[1]
-    predict = []
-    for data in dataload:
-        resl = []
-        entity_list = data["entity_list"][0]
-        pred = model(data["token_ids"].to(device))
-        pred_ids = model.crf.decode(pred,mask=data["mask"].to(device))
-        for i in pred_ids[0]:
-            resl.append(id2rel[str(i)])
-        ans = parse(resl,data["token"][0])
-        gold_num += len(entity_list)
-        correct_num += len(set(entity_list) & set(ans))
-        predict_num += len(ans)
-        predict.append({"text":data["token"][0],
-                        "gold":entity_list,
-                        "predict":ans,
-                        "new":list(set(ans) - set(entity_list)),
-                        "lack":list(set(entity_list) - set(ans))})
-    print("correct_num:{} predict_num:{} gold_num:{}".format(correct_num,predict_num,gold_num))
-    json.dump(predict,open(fn,"w",encoding="utf-8"),indent=4,ensure_ascii=False)
-    precision = correct_num / (predict_num + 1e-10)
-    recall = correct_num / (gold_num + 1e-10)
-    f1_score = 2 * precision * recall / (precision + recall + 1e-10)
-    model.train()
-    return precision,recall,f1_score
+class Inference():
+    def __init__(self,config):
+        self.config = config
+        self.model = BiLSTM_CRF(self.config)
+        self.device = torch.device("cuda:%d"%self.config.cuda if torch.cuda.is_available() else "cpu")
+        self.model.load_state_dict(torch.load(self.config.save_model,map_location=self.device))
+        self.model.to(self.device).eval()
+        self.id2label = json.load(open(self.config.schemas, "r", encoding="utf-8"))[1]
+        self.vocab = json.load(open(self.config.vocab,"r",encoding="utf-8"))
+
+    def __data_porcess(self,sentence):
+        sentence2id = []
+        for char in sentence:
+            if char in self.vocab:
+                sentence2id.append(self.vocab[char])
+            else:
+                sentence2id.append(self.vocab["unk"])
+        token_len = len(sentence2id)
+        mask = [1] * token_len
+        return torch.LongTensor([sentence2id]),torch.LongTensor([mask])
+
+    def predict(self,sentence):
+        input_ids,mask = self.__data_porcess(sentence)
+        pred = self.model(input_ids.to(self.device),mask.to(self.device))
+        decode = self.model.crf.decode(pred)
+        tag_idx = []
+
+        for idx in decode[0]:
+            tag_idx.append(self.id2label[str(idx)])
+        resl = parse(tag_idx,sentence)
+        print(json.dumps({"sentence":sentence,"entity":resl},indent=4,ensure_ascii=False))
