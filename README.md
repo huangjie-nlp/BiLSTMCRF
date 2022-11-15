@@ -1,5 +1,5 @@
-# bilstm_crf
-## 一、bilstm_crf 命名实体识别
+# BiLSTMCrf
+## 一、BiLSTMCrf 命名实体识别
 
 1、本实验的标注为BMES，数据处理成dataset下数据的格式后可以直接run train.py训练模型
 
